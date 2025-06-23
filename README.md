@@ -5,13 +5,13 @@
 ![Docker](https://img.shields.io/badge/Container-Docker-blue)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-lightgrey)
 
----
+
 
 🚀 **DevOps Enthusiast** | AWS Certified Solutions Architect – Associate  
 🔧 Learning by building: Terraform, Docker, GitHub Actions, ECS, Ansible  
 💡 Passionate about infrastructure, cloud automation, and solving real-world deployment problems.
 
----
+
 
 ## 📁 Projects
 
@@ -23,7 +23,7 @@ Includes modular VPC, IAM roles, Secrets Manager, and complete cloud architectur
 CI/CD pipeline that deploys a PHP Yii2 app on AWS EC2 using Docker Swarm, Ansible, and GitHub Actions.  
 End-to-end pipeline from provisioning to deployment.
 
----
+
 
 ## 📚 Currently Learning
 
@@ -32,21 +32,21 @@ End-to-end pipeline from provisioning to deployment.
 - ELK Stack
 - Multi-region HA architectures
 
----
+
 
 ## 🚀 Looking for
 
 **DevOps Internship** / **Entry-Level Cloud Infra Roles**  
 > I'm not certified by experience — I'm certified by grit and hands-on effort. I break and build till I learn it.
 
----
+
 
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/avinashmorla/)
 - ✉️ avinashmorla2003@gmail.com
 
----
+
 
 ## 📊 GitHub Stats
 
