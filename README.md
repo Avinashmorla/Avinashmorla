@@ -1,27 +1,31 @@
-# 👋 Hi, I'm Avinash Morla
+# 👋 Hey, I'm Avinash Morla
 
-🚀 Junior DevOps Engineer | AWS Certified SAA  
-🔧 Terraform | Docker | GitHub Actions | Ansible | ECS | EC2 | CI/CD  
-🌍 Passionate about building cloud-native infrastructure and automation.
-
----
-
-## 🚀 Projects
-
-### [`terraform-prefect-ecs-infra`](https://github.com/Avinashmorla/terraform-prefect-ecs-infra)  
-Deploy Prefect Workers on AWS ECS (Fargate) using Terraform with modular VPC, IAM, and Secrets Manager.
-
-### [`aws-yii2-ci-cd-docker-ansible`](https://github.com/Avinashmorla/aws-yii2-ci-cd-docker-ansible)  
-CI/CD pipeline deploying a Yii2 PHP app on AWS EC2 using Docker Swarm, GitHub Actions, Ansible, and NGINX.
+🚀 DevOps Enthusiast | AWS Certified Solutions Architect – Associate  
+🔧 Learning by building: Terraform, Docker, GitHub Actions, ECS, Ansible  
+☁️ Passionate about infrastructure, cloud automation, and solving real-world deployment problems.
 
 ---
 
-### 🧠 I’m learning:
-- Kubernetes, Prometheus, ELK Stack
-- Advanced AWS automation and scaling
+### 📦 Projects
 
-### 💼 Looking for:
-- DevOps/Cloud internships or fresher roles
-- Real infrastructure challenges
+#### [`terraform-prefect-ecs-infra`](https://github.com/Avinashmorla/terraform-prefect-ecs-infra)  
+✅ Infrastructure as Code setup using Terraform to deploy Prefect workers on AWS ECS Fargate.  
+Includes modular VPC, IAM roles, Secrets Manager, and complete cloud architecture.
 
-📫 [LinkedIn](https://www.linkedin.com/in/avinashmorla/) • ✉️ avinashmorla2003@gmail.com
+#### [`aws-yii2-ci-cd-docker-ansible`](https://github.com/Avinashmorla/aws-yii2-ci-cd-docker-ansible)  
+✅ CI/CD pipeline that deploys a PHP Yii2 app on AWS EC2 using Docker Swarm, Ansible, and GitHub Actions.  
+End-to-end pipeline from provisioning to deployment.
+
+---
+
+🧠 **Currently Learning:**  
+- Kubernetes  
+- Prometheus/Grafana  
+- ELK Stack  
+- Multi-region HA architectures
+
+💼 **Looking for:**  
+DevOps Internship / Entry-Level Cloud Infra Roles  
+> I'm not certified by experience — I'm certified by **grit** and **hands-on effort**. I break and build till I learn it.
+
+📫 [LinkedIn](https://www.linkedin.com/in/avinashmorla) | ✉️ avinashmorla2003@gmail.com
