@@ -4,7 +4,6 @@
 🔧 Learning by building: Terraform, Docker, GitHub Actions, ECS, Ansible  
 ☁️ Passionate about infrastructure, cloud automation, and solving real-world deployment problems.
 
----
 
 ### 📦 Projects
 
@@ -16,7 +15,6 @@ Includes modular VPC, IAM roles, Secrets Manager, and complete cloud architectur
 ✅ CI/CD pipeline that deploys a PHP Yii2 app on AWS EC2 using Docker Swarm, Ansible, and GitHub Actions.  
 End-to-end pipeline from provisioning to deployment.
 
----
 
 🧠 **Currently Learning:**  
 - Kubernetes  
