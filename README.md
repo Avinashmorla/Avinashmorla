@@ -1,4 +1,9 @@
 # 👋 Hey, I'm Avinash Morla
+![AWS Certified](https://img.shields.io/badge/AWS-Certified%20SAA-orange)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-blueviolet)
+![Docker](https://img.shields.io/badge/Container-Docker-blue)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-lightgrey)
+
 
 🚀 DevOps Enthusiast | AWS Certified Solutions Architect – Associate  
 🔧 Learning by building: Terraform, Docker, GitHub Actions, ECS, Ansible  
