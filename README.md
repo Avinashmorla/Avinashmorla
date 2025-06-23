@@ -32,3 +32,10 @@ DevOps Internship / Entry-Level Cloud Infra Roles
 > I'm not certified by experience — I'm certified by **grit** and **hands-on effort**. I break and build till I learn it.
 
 📫 [LinkedIn](https://www.linkedin.com/in/avinashmorla) | ✉️ avinashmorla2003@gmail.com
+---
+
+📊 **GitHub Stats**
+
+![Avinash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Avinashmorla&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avinashmorla&layout=compact&theme=radical)
+
